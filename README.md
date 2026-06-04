@@ -1,8 +1,7 @@
 # 🎨 Chroma Key Studio
 
-**Laboratório — Processamento de Imagens Digitais com OpenCV**
-🏫 Residência Tecnológica do SiDi · Professor: Thierry Moreira
-📅 Data de entrega: 05/06/2026 · 📬 thierry.m@sidi.org.br
+**Laboratório — Processamento de Imagens Digitais com OpenCV**  
+🏫 Residência Tecnológica do SiDi · Professor: Thierry Moreira  
 
 ---
 
@@ -38,7 +37,7 @@ Chroma Key Studio é uma ferramenta de processamento de imagens que combina **se
 
 Abra o notebook no Google Colab e execute célula por célula:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/chroma-key-studio/blob/main/chroma_key_studio.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daniballester-ai/chroma-key-studio/blob/main/chroma_key_studio.ipynb)
 
 1. Faça upload das imagens de teste para o ambiente do Colab
 2. Execute as células de setup (imports e função `mostrar()`)
