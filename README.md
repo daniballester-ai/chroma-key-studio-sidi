@@ -80,4 +80,4 @@ jupyter notebook chroma_key_studio.ipynb
 
 #SiDi #ResidenciaTecnologica #IA #OpenCV #Python
 
-Este laboratório faz parte da **Fase 2** da residência tecnológica oferecida pelo **SiDi** através dos **Projetos Prioritários de Interesse Nacional (PPIs)**, que são iniciativas estratégicas reconhecidas pelo Governo Federal com o objetivo de impulsionar o desenvolvimento econômico e a inovação no país. Essas ações abrangem diferentes áreas, como tecnologia da informação e comunicação (TIC), infraestrutura e outros setores considerados essenciais para o avanço da competitividade nacional.
+*Este laboratório faz parte da **Fase 2** da residência tecnológica oferecida pelo **SiDi** através dos **Projetos Prioritários de Interesse Nacional (PPIs)**, que são iniciativas estratégicas reconhecidas pelo Governo Federal com o objetivo de impulsionar o desenvolvimento econômico e a inovação no país. Essas ações abrangem diferentes áreas, como tecnologia da informação e comunicação (TIC), infraestrutura e outros setores considerados essenciais para o avanço da competitividade nacional.*
